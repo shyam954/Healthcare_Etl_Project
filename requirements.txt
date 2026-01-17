@@ -1,0 +1,8 @@
+
+# Airflow Core
+apache-airflow-providers-apache-spark==4.7.1
+apache-airflow-providers-postgres==5.10.1
+
+# Spark
+pyspark==3.3.2
+

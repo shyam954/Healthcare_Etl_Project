@@ -1,0 +1,21 @@
+{
+
+    
+    "s3_output_path": "s3a://healthcare---data/results/",
+    "s3_raw_patients":"s3a://healthcare---data/raw/patients.csv", 
+    "s3_raw_encounters":"s3a://healthcare---data/raw/encounters.csv",
+    "s3_raw_treatments":"s3a://healthcare---data/raw/treatments.csv",
+
+    "local_raw_patients" : "Desktop/heathcare_project/src/datacreation/data/raw/patients.csv",
+    "local_raw_encounters": "Desktop/heathcare_project/src/datacreation/data/raw/encounters.csv",
+    "local_raw_treatments": "Desktop/heathcare_project/src/datacreation/data/raw/treatments.csv",
+    "local_processed_path": "Desktop/heathcare_project/src/local_storage_for_processed _data/",
+
+
+
+    "doc_airflow_raw_encounters" : "/opt/airflow/datacreation/data/raw/encounters.csv",
+    "doc_airflow_raw_treatments":"/opt/airflow/datacreation/data/raw/treatments.csv",
+    "doc_airflow_raw_patients": "/opt/airflow/datacreation/data/raw/patients.csv",
+    "local_processed_path_doc_airflow":"/opt/airflow/src/local_storage_for_processed _data/"
+}
+
